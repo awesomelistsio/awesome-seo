@@ -45,6 +45,9 @@
 - [SEMrush](https://www.semrush.com/) - Provides keyword research, competitor analysis, and site auditing tools.
 - [Moz Pro](https://moz.com/products/pro) - Offers a suite of SEO tools, including keyword research, link analysis, and site auditing.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - A powerful website crawler that helps with technical SEO audits.
+- [aio-surfaces](https://github.com/Janady13/aio-surfaces) - MIT-licensed Python toolkit that generates the four AI-citation surfaces (llms.txt, aeo.json, entity.json, brand.json) from a single site config. Pure stdlib, optional PyYAML, 10/10 tests passing.
+- [seo-sidecar](https://github.com/Janady13/seo-sidecar) - FastAPI + nginx SSI sidecar that injects up-to-date Schema.org JSON-LD into nginx-served sites with zero crons, zero file changes, always fresh. Python + Go push clients.
+- [llms.txt generator](https://huggingface.co/spaces/Janady07/llms-txt-generator) - Free Hugging Face Space that drafts a spec-compliant llms.txt for any homepage or sitemap URL. Built on top of aio-surfaces.
 
 ## Guides and Tutorials
 - [Google's Search Engine Optimization (SEO) Starter Guide](https://support.google.com/webmasters/answer/7451184) - A comprehensive guide by Google on the basics of SEO.
