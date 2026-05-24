@@ -45,7 +45,7 @@
 - [SEMrush](https://www.semrush.com/) - Provides keyword research, competitor analysis, and site auditing tools.
 - [Moz Pro](https://moz.com/products/pro) - Offers a suite of SEO tools, including keyword research, link analysis, and site auditing.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - A powerful website crawler that helps with technical SEO audits.
-
+- [SEO Audit Tool](https://seo.textools.site) - Free online SEO audit tool that checks 16+ on-page factors — meta tags, headings, images, alt text, schema, performance, social tags, and more. Generates PDF reports. No signup required for basic scans.
 ## Guides and Tutorials
 - [Google's Search Engine Optimization (SEO) Starter Guide](https://support.google.com/webmasters/answer/7451184) - A comprehensive guide by Google on the basics of SEO.
 - [Moz Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo) - A comprehensive resource covering SEO from the ground up.
