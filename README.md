@@ -42,9 +42,11 @@
 - [Google Search Console](https://search.google.com/search-console) - Provides insights into your website's performance in Google search results and helps identify and fix issues.
 - [Google Analytics](https://analytics.google.com/) - Offers in-depth website traffic analysis and user behavior insights.
 - [Ahrefs](https://ahrefs.com/) - A comprehensive SEO toolset for keyword research, competitor analysis, and backlink analysis.
-- [SEMrush](https://www.semrush.com/) - Provides keyword research, competitor analysis, and site auditing tools.
+- [Local Business Schema Generator](https://landing-five-dusky-44.vercel.app/schema-generator) - Free JSON-LD schema generator for local businesses. Generates LocalBusiness, Service, and other schema types with one click.
 - [Moz Pro](https://moz.com/products/pro) - Offers a suite of SEO tools, including keyword research, link analysis, and site auditing.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - A powerful website crawler that helps with technical SEO audits.
+- [SEMrush](https://www.semrush.com/) - Provides keyword research, competitor analysis, and site auditing tools.
+- [Website Speed Comparator](https://landing-five-dusky-44.vercel.app/comparar-velocidad) - Free tool to compare your website's Google PageSpeed score side-by-side against any competitor. Uses real PageSpeed Insights data.
 
 ## Guides and Tutorials
 - [Google's Search Engine Optimization (SEO) Starter Guide](https://support.google.com/webmasters/answer/7451184) - A comprehensive guide by Google on the basics of SEO.
