@@ -44,6 +44,7 @@
 - [Ahrefs](https://ahrefs.com/) - A comprehensive SEO toolset for keyword research, competitor analysis, and backlink analysis.
 - [SEMrush](https://www.semrush.com/) - Provides keyword research, competitor analysis, and site auditing tools.
 - [Moz Pro](https://moz.com/products/pro) - Offers a suite of SEO tools, including keyword research, link analysis, and site auditing.
+- [SEO Command Center](https://github.com/testedmedia/seo-command-center) - Self-hosted, open-source (MIT) SEO platform: rank tracking, keyword research, competitor gaps, AI Overview visibility, site audits, and local map-pack grids.
 - [Screaming Frog SEO Spider](https://www.screamingfrog.co.uk/seo-spider/) - A powerful website crawler that helps with technical SEO audits.
 
 ## Guides and Tutorials
